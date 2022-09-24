@@ -22,6 +22,7 @@ public class Variables {
 		String name = "Mathivanan";
 		System.out.println("Example for char :\n  Initial : "+initial);
 		System.out.println("Example for String : \n  Name : "+name);
+		
 	}
 	private void boo() {
 		boolean availability = true;
@@ -34,6 +35,7 @@ public class Variables {
 		variable.stringChar();
 		variable.boo();
 		
+		System.out.println("Before Conflict");
 		System.out.println("After Conflict");
 	}
 
