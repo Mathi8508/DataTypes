@@ -35,7 +35,8 @@ public class Variables {
 		variable.stringChar();
 		variable.boo();
 		
-		System.out.println("Before Conflect");
+		System.out.println("Before Conflict");
+		System.out.println("After Conflict");
 	}
 
 }
