@@ -34,6 +34,8 @@ public class Variables {
 		variable.floatingPoint();
 		variable.stringChar();
 		variable.boo();
+		
+		System.out.println("Before Conflect");
 	}
 
 }
